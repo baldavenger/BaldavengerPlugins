@@ -15,4 +15,4 @@ C:\Program Files\Common Files\OFX\Plugins
 
 https://github.com/baldavenger
 
-baldavenger.org
+www.baldavenger.org
