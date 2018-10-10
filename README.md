@@ -12,6 +12,8 @@ C:\Program Files\Common Files\OFX\Plugins
 (for linux) 
 /usr/OFX/Plugins
 
+\n
+\n
 
 
 https://github.com/baldavenger
